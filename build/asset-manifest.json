@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/cpt/static/js/main.319d9a9d.chunk.js",
+    "main.js.map": "/cpt/static/js/main.319d9a9d.chunk.js.map",
+    "runtime-main.js": "/cpt/static/js/runtime-main.f336ecec.js",
+    "runtime-main.js.map": "/cpt/static/js/runtime-main.f336ecec.js.map",
+    "static/js/2.48f34f58.chunk.js": "/cpt/static/js/2.48f34f58.chunk.js",
+    "static/js/2.48f34f58.chunk.js.map": "/cpt/static/js/2.48f34f58.chunk.js.map",
+    "index.html": "/cpt/index.html",
+    "precache-manifest.9dba2e2dc9cca86c2d3dd3f8312c63c1.js": "/cpt/precache-manifest.9dba2e2dc9cca86c2d3dd3f8312c63c1.js",
+    "service-worker.js": "/cpt/service-worker.js",
+    "static/js/2.48f34f58.chunk.js.LICENSE.txt": "/cpt/static/js/2.48f34f58.chunk.js.LICENSE.txt",
+    "static/media/couple.png": "/cpt/static/media/couple.587abf19.png",
+    "static/media/logoVectoresTumejoropcion11.png": "/cpt/static/media/logoVectoresTumejoropcion11.3278290d.png",
+    "static/media/persona3d.png": "/cpt/static/media/persona3d.5dc3dfea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f336ecec.js",
+    "static/js/2.48f34f58.chunk.js",
+    "static/js/main.319d9a9d.chunk.js"
+  ]
+}
